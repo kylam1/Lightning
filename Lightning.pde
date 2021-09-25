@@ -22,7 +22,7 @@ void draw()
   centerWeb(980-(float)Math.random()*50, 230+(float)Math.random()*50-25);
   centerWeb(970-(float)Math.random()*50, 400+(float)Math.random()*50-25);
   centerWeb(960-(float)Math.random()*50, 600+(float)Math.random()*50-25);
-  centerWeb(350+(float)Math.random()*30, 850+(float)Math.random()*25);
+  centerWeb(300+(float)Math.random()*30, 900+(float)Math.random()*25);
   centerWeb(780+(float)Math.random()*30, 800+(float)Math.random()*25);
   centerWeb(350+(float)Math.random()*30, 100-(float)Math.random()*25);
   centerWeb(600+(float)Math.random()*30, 100-(float)Math.random()*25);
